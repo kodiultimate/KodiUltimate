@@ -1,4 +1,4 @@
-![](https://github.com/kodiultimate/KodiUltimate/blob/main/ku%20front.png)
+![](https://github.com/kodiultimate/KodiUltimate/blob/main/header.png)
 
 ---
 ##	Hi there 👋 Headphones & focusing on good stuff :)
